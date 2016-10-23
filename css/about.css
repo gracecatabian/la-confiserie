@@ -29,7 +29,7 @@ div h1.titleofsite{
 
 .business-header {
     height: 570px;
-    background-image: url("img/aboutish.png");
+    background-image: url(img/about.png);
     background-position: center;
     background-repeat: no-repeat;
     background: scroll;
